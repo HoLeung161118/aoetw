@@ -72,7 +72,7 @@
             >單位升級和科技，其<nuxt-link to="/units/Unique_Unit"
               >特殊單位</nuxt-link
             ><nuxt-link to="/units/Leitis">烈堤司</nuxt-link
-            >攻擊時更能無視歒方<nuxt-link to="/armor">裝甲</nuxt-link
+            >攻擊時更能無視敵方<nuxt-link to="/armor">裝甲</nuxt-link
             >。<nuxt-link to="/units/Knight">騎士</nuxt-link
             >系和烈堤司每駐守一件<nuxt-link to="/elements/Relic">遺跡</nuxt-link
             >，<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
@@ -227,8 +227,6 @@
             <li>
               保加利亞的文明徽標來自於繪有格迪米纳斯之柱的塔盾，而格迪米納斯王朝從14世紀到16世紀統治着立陶宛。
             </li>
-            <li>
-              立陶宛是唯一無法在單一戰役中可供遊玩的文明。
             </li>
           </ul>
         </div>
